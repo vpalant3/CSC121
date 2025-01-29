@@ -1,0 +1,35 @@
+#include <iostream>
+using namespace std;
+
+int main()
+{
+   
+    int inpuit;
+    cin >> inpuit;
+    cout << inpuit;
+    if (inpuit % 3 == 0 && inpuit % 5 == 0) {
+        cout << "fizzbuzz ";
+    }
+    else if (inpuit % 5 == 0) {
+        cout << "buzz ";
+    }
+    else if (inpuit % 3 == 0) {
+        cout << "fizz ";
+    }
+   
+   
+     
+    for (int i=0;i <= 100; i++) {
+        cout << i<<" ";
+        //int sum+i;
+
+    }
+    /*int fizzy = i % 3
+        if (fizzy ){
+            cout << fizzy;
+        }
+        else {
+            cout << "rip";
+        }*/
+   
+}
