@@ -6,9 +6,8 @@
 //
 
 #include <iostream>
-
-int main(int argc, const char * argv[]) {
 #include <cmath> //; c math library
+int main(int argc, const char * argv[]) {
     std::cout << "Welcome to the Room Capcity Program!\n";
     std::cout << "How many people can this room hold?\n";
     double x = 0.0 , y = 0.0 ;
