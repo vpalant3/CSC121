@@ -6,9 +6,8 @@
 //
 
 #include <iostream>
-
-int main(int argc, const char * argv[]) {
 #include <cmath> //; c math library
+int main(int argc, const char * argv[]) {
     std::cout << "Welcome to the 2D Distance Program!\n";
     std::cout << "Do you want to calculate in 2 or 3 dimensions?\n";
     int choice;
