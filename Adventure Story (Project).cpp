@@ -184,7 +184,7 @@ int main(int argc, const char * argv[]) {
                         cin >> playAgain;
                     } else {
                         cout << "You find the Wolf disguised as your grandma!" << endl << "The shock of finding a wolf dressed as your grandma startles you and you run away!" << endl;
-                        cout << "Do you want to play again?" << endl;
+                        cout << "Do you want to play again?(yes/no)" << endl;
                         cin >> playAgain;
                     } // else closer
                 } // DoorOption closer
