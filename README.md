@@ -1,2 +1,2 @@
 # CSC121
-Computer Science I
+Computer Science I, Harper College
